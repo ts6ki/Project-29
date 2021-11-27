@@ -1,2 +1,3 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Project 29
+
+Slingshot simulator developed using Matter.js
